@@ -1,0 +1,42 @@
+// const jacketUrl = require('./images/jacket1.jpeg');
+// const shirtUrl = require('./images/shirt1.jpg');
+
+// const jacketImage = (<Image
+    //            style={styles.imageStyle}
+    //            source={jacketUrl}
+    // />);
+    // const shirtImage = (<Image
+    //            style={styles.imageStyle}
+    //            source={require('./images/shirt1.jpeg')}
+    //          />); 
+
+
+/*} <Image
+                  style={styles.imageStyle}
+                  source={require('./images/shirt1.jpeg')}
+                />
+              </SecondCircleLayer>);
+              */
+
+
+
+/*    <Image
+                  style={styles.imageStyle}
+                  source={require('./images/jacket1.jpeg')}
+                />
+              </FirstCircleAlter>);
+              */
+
+
+// const styles = {
+//     imageStyle: {
+//         width: '100%',
+//         height: '100%'
+//     }
+// };
+
+{/* <PageImage />
+      </FirstCircleAlter>*/}
+
+{/*}  <PageImage />
+      </FirstCircleLayer>*/};
